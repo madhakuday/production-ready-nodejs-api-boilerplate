@@ -28,7 +28,7 @@ A simple and powerful Node.js project template with a clean folder structure and
   - `/services` – External service helpers (e.g., email, storage)
   - `/utils` – Utility/helper functions
   - `/validators` – Input validation schemas
-   - `app.js` – Express app configuration
+  - `/app.js` – Express app configuration
 - `package.json` – Project metadata and dependencies
 - `Dockerfile` – Docker configuration for containerization
 
